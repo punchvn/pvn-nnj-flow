@@ -1,3 +1,8 @@
+# Install libraries
+```bash
+npm install
+```
+
 # Run all testcase
 ```bash
 npm test
