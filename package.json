@@ -1,0 +1,22 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -i --colors --verbose --detectOpenHandles"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2",
+    "babel-jest": "^28.1.0",
+    "elliptic": "^6.5.4",
+    "flow-js-testing": "^0.2.3-alpha.6",
+    "jest": "^28.1.0",
+    "jest-environment-node": "^28.1.0",
+    "rlp": "^3.0.0"
+  }
+}
